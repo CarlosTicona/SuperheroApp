@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperheroApp</string>
+
+    <string name="back_button">Back</string>
+</resources>
